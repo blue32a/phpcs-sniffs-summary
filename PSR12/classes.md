@@ -42,3 +42,20 @@ new \DateTime;
 // Fixed 👍
 new \DateTime();
 ```
+
+### PSR12.Classes.ClosingBrace
+
+Verifies that closing braces are the last content on a line.
+
+```php
+// Error 👎
+class Foo
+{
+}echo 'hi';
+
+// Fixed 👍
+class Foo
+{
+}
+echo 'hi';
+```

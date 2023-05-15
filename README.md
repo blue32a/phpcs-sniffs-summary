@@ -6,3 +6,4 @@
 
 - [PSR12.Classes.AnonClassDeclaration](PSR12/classes.md#psr12classesanonclassdeclaration)
 - [PSR12.Classes.ClassInstantiation](PSR12/classes.md#psr12classesclassinstantiation)
+- [PSR12.Classes.ClosingBrace](PSR12/classes.md#psr12classesclosingbrace)
