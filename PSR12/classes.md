@@ -59,3 +59,20 @@ class Foo
 }
 echo 'hi';
 ```
+
+### PSR12.Classes.OpeningBraceSpace
+
+Verifies that opening braces are not followed by blank lines.
+
+```php
+// Error 👎
+class Foo
+{
+
+}
+
+// Fixed 👍
+class Foo
+{
+}
+```
