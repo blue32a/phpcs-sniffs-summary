@@ -30,3 +30,15 @@ new class implements
 {
 };
 ```
+
+### PSR12.Classes.ClassInstantiation
+
+Verifies that classes are instantiated with parentheses.
+
+```php
+// Error 👎
+new \DateTime;
+
+// Fixed 👍
+new \DateTime();
+```
