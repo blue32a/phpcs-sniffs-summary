@@ -13,3 +13,4 @@
 - [PSR12.Files.DeclareStatement](PSR12/files.md#psr12filesdeclarestatement)
 - [PSR12.Files.FileHeader](PSR12/files.md#psr12filesfileheader)
 - [PSR12.Files.ImportStatement](PSR12/files.md#psr12filesimportstatement)
+- [PSR12.Files.OpenTag](PSR12/files.md#psr12filesopentag)

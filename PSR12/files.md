@@ -40,3 +40,17 @@ use \DateTime;
 // Fixed 👍
 use DateTime;
 ```
+
+### PSR12.Files.OpenTag
+
+Checks that the open tag is defined correctly.
+
+```php
+// Error 👎
+<?php namespace App;
+
+
+// Fixed 👍
+<?php
+namespace App;
+```
