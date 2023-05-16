@@ -10,3 +10,4 @@
 - [PSR12.Classes.OpeningBraceSpace](PSR12/classes.md#psr12classesopeningbracespace)
 - [PSR12.ControlStructures.BooleanOperatorPlacement](PSR12/control-structures.md#psr12controlstructuresbooleanoperatorplacement)
 - [PSR12.ControlStructures.ControlStructureSpacing](PSR12/control-structures.md#psr12controlstructurescontrolstructurespacing)
+- [PSR12.Files.DeclareStatement](PSR12/files.md#psr12filesdeclarestatement)
