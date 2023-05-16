@@ -8,3 +8,4 @@
 - [PSR12.Classes.ClassInstantiation](PSR12/classes.md#psr12classesclassinstantiation)
 - [PSR12.Classes.ClosingBrace](PSR12/classes.md#psr12classesclosingbrace)
 - [PSR12.Classes.OpeningBraceSpace](PSR12/classes.md#psr12classesopeningbracespace)
+- [PSR12.ControlStructures.BooleanOperatorPlacement](PSR12/control-structures.md#psr12controlstructuresbooleanoperatorplacement)
