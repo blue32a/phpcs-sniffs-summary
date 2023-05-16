@@ -23,3 +23,22 @@ if (
 ) {
 }
 ```
+
+### PSR12.ControlStructures.ControlStructureSpacing
+
+Checks that control structures have the correct spacing.
+
+```php
+// Error 👎
+if ($a > 0
+    && $a <= 10
+) {
+}
+
+// Fixed 👍
+if (
+    $a > 0
+    && $a <= 10
+) {
+}
+```
