@@ -12,3 +12,4 @@
 - [PSR12.ControlStructures.ControlStructureSpacing](PSR12/control-structures.md#psr12controlstructurescontrolstructurespacing)
 - [PSR12.Files.DeclareStatement](PSR12/files.md#psr12filesdeclarestatement)
 - [PSR12.Files.FileHeader](PSR12/files.md#psr12filesfileheader)
+- [PSR12.Files.ImportStatement](PSR12/files.md#psr12filesimportstatement)

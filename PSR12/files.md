@@ -27,3 +27,16 @@ namespace App;
 
 namespace App;
 ```
+
+### PSR12.Files.ImportStatement
+
+Verifies that import statements are defined correctly.
+
+```php
+// Error 👎
+use \DateTime;
+
+
+// Fixed 👍
+use DateTime;
+```
