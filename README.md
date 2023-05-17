@@ -17,3 +17,4 @@
 - [PSR12.Functions.NullableTypeDeclaration](PSR12/functions.md#psr12functionsnullabletypedeclaration)
 - [PSR12.Functions.ReturnTypeDeclaration](PSR12/functions.md#psr12functionsreturntypedeclaration)
 - [PSR12.Keywords.ShortFormTypeKeywords](PSR12/keywords.md#psr12keywordsshortformtypekeywords)
+- [PSR12.Namespaces.CompoundNamespaceDepth](PSR12/namespaces.md#psr12namespacescompoundnamespacedepth)
