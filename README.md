@@ -15,3 +15,4 @@
 - [PSR12.Files.ImportStatement](PSR12/files.md#psr12filesimportstatement)
 - [PSR12.Files.OpenTag](PSR12/files.md#psr12filesopentag)
 - [PSR12.Functions.NullableTypeDeclaration](PSR12/functions.md#psr12functionsnullabletypedeclaration)
+- [PSR12.Functions.ReturnTypeDeclaration](PSR12/functions.md#psr12functionsreturntypedeclaration)
