@@ -28,3 +28,26 @@ class Bar extends Foo implements
 {
 }
 ```
+
+### PSR2.Classes.PropertyDeclaration
+
+Verifies that properties are declared correctly.
+
+```php
+// Error 👎
+class Foo
+{
+    var $a;
+    private $_b;
+    protected $c, $d;
+}
+
+// Fixed 👍
+class Foo
+{
+    public $a;
+    private $b;
+    protected $c;
+    protected $d;
+}
+```

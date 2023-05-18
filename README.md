@@ -5,6 +5,7 @@
 ### PSR-2
 
 - [PSR2.Classes.ClassDeclaration](PSR2/classes.md#psr2classesclassdeclaration)
+- [PSR2.Classes.PropertyDeclaration](PSR2/classes.md#psr2classespropertydeclaration)
 
 ### PSR-12
 
