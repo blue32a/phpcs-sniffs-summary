@@ -37,3 +37,35 @@ if ($a === 1) {
 } elseif ($a === 2) {
 }
 ```
+
+### PSR2.ControlStructures.SwitchDeclaration
+
+Ensures all switch statements are defined correctly.
+
+```php
+// Error 👎
+switch ($expr) {
+    case   1:
+        echo 'First case';
+        break;
+    Case 2:
+        echo 'Second case';
+        break;
+    Default:
+        echo 'Default case';
+            break;
+}
+
+// Fixed 👍
+switch ($expr) {
+    case 1:
+        echo 'First case';
+        break;
+    case 2:
+        echo 'Second case';
+        break;
+    default:
+        echo 'Default case';
+        break;
+}
+```
