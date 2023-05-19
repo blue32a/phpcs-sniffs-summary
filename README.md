@@ -15,6 +15,7 @@
 - [PSR2.Methods.FunctionClosingBrace](PSR2/methods.md#psr2methodsfunctionclosingbrace)
 - [PSR2.Methods.MethodDeclaration](PSR2/methods.md#psr2methodsmethoddeclaration)
 - [PSR2.Namespaces.NamespaceDeclaration](PSR2/namespaces.md#psr2namespacesnamespacedeclaration)
+- [PSR2.Namespaces.UseDeclaration](PSR2/namespaces.md#psr2namespacesusedeclaration)
 
 ### PSR-12
 
