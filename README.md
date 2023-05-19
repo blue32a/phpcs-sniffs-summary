@@ -11,6 +11,7 @@
 - [PSR2.ControlStructures.SwitchDeclaration](PSR2/control-structures.md#psr2controlstructuresswitchdeclaration)
 - [PSR2.Files.ClosingTag](PSR2/files.md#psr2filesclosingtag)
 - [PSR2.Files.EndFileNewline](PSR2/files.md#psr2filesendfilenewline)
+- [PSR2.Methods.FunctionCallSignature](PSR2/methods.md#psr2methodsfunctioncallsignature)
 
 ### PSR-12
 
