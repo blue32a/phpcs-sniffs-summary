@@ -14,3 +14,18 @@ echo 'Foo';
 <?php
 echo 'Foo';
 ```
+
+### PSR2.Files.EndFileNewline
+
+Ensures the file ends with a newline character.
+
+```php
+// Error 👎
+<?php
+echo 'Foo';EOF
+
+// Fixed 👍
+<?php
+echo 'Foo';↩
+EOF
+```
