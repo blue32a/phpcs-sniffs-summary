@@ -22,3 +22,22 @@ somefunction2(
     $bar
 );
 ```
+
+### PSR2.Methods.FunctionClosingBrace
+
+Checks that the closing brace of a function goes directly after the body.
+
+```php
+// Error 👎
+function foo()
+{
+    echo 'foo';
+
+}
+
+// Fixed 👍
+function foo()
+{
+    echo 'foo';
+}
+```
