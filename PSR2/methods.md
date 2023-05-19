@@ -41,3 +41,23 @@ function foo()
     echo 'foo';
 }
 ```
+
+### PSR2.Methods.MethodDeclaration
+
+Checks that the method declaration is correct.
+
+```php
+// Error 👎
+abstract class MyClass
+{
+    public abstract function foo();
+    public final function bar() {}
+}
+
+// Fixed 👍
+abstract class MyClass
+{
+    abstract public function foo();
+    final public function bar() {}
+}
+```

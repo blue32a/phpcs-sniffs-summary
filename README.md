@@ -13,6 +13,7 @@
 - [PSR2.Files.EndFileNewline](PSR2/files.md#psr2filesendfilenewline)
 - [PSR2.Methods.FunctionCallSignature](PSR2/methods.md#psr2methodsfunctioncallsignature)
 - [PSR2.Methods.FunctionClosingBrace](PSR2/methods.md#psr2methodsfunctionclosingbrace)
+- [PSR2.Methods.MethodDeclaration](PSR2/methods.md#psr2methodsmethoddeclaration)
 
 ### PSR-12
 
