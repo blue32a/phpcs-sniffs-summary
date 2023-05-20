@@ -6,6 +6,7 @@
 
 - [PSR1.Classes.ClassDeclaration](PSR1/classes.md#psr1classesclassdeclaration)
 - [PSR1.Files.SideEffects](PSR1/files.md#psr1filessideeffects)
+- [PSR1.Methods.CamelCapsMethodName](PSR1/methods.md#psr1methodscamelcapsmethodname)
 
 ### PSR-2
 
