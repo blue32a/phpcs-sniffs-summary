@@ -5,6 +5,7 @@
 ### PSR-1
 
 - [PSR1.Classes.ClassDeclaration](PSR1/classes.md#psr1classesclassdeclaration)
+- [PSR1.Files.SideEffects](PSR1/files.md#psr1filessideeffects)
 
 ### PSR-2
 
