@@ -2,6 +2,10 @@
 
 ## List of sniffs
 
+### PSR-1
+
+- [PSR1.Classes.ClassDeclaration](PSR1/classes.md#psr1classesclassdeclaration)
+
 ### PSR-2
 
 - [PSR2.Classes.ClassDeclaration](PSR2/classes.md#psr2classesclassdeclaration)
